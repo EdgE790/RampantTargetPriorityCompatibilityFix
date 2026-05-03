@@ -1,9 +1,11 @@
 {
-  "name": "RampantTargetPrioityCompatibilityFix",
-  "version": "1.1.0",
-  "title": "Rampant Target Prioity Compatiblity Fix",
-  "author": "LennyTheLing",
+  "name": "RampantTargetPriorityCompatibilityFix",
+  "version": "1.2.0",
+  "title": "Rampant Target Priority Compatibility Fix",
+  "author": "edge790, LennyTheLing",
+  "contact": "",
+  "homepage": "https://github.com/EdgE790/RampantTargetPriorityCompatibilityFix",
   "factorio_version": "2.0",
   "dependencies": ["base >= 2.0", "RampantFixed >= 2.0", "advanced_target_priorities >= 1.0.2"],
-  "description": "This mod adds advanced target priority compatibility for rampant."
+  "description": "This mod adds advanced target priority compatibility for Rampant."
 }

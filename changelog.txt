@@ -1,0 +1,10 @@
+---------------------------------------------------------------------------------------------------
+Version: 1.2.0
+Date: 04. 05. 2026
+  Features:
+    - Added "Rampant Misc." section which allows to target eggs and wasps
+  Info:
+    - Added changelog
+    - Created repository on GitHub and added link to it
+    - Fixed typos for "Priority" and "Compatibility" in the info.json, mod directory name and code.
+    - Updated thubnail.png to show new section and updated old section.
